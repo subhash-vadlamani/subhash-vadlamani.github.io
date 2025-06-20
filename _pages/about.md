@@ -10,23 +10,64 @@ redirect_from:
 
 ![Intro Pic](/images/intro_image.webp){: .align-right width="300px"}
 
-👨‍💻 I graduated with a Master of Science in Computer Science from the University of Florida.
+👨‍💻 I’m a software engineer passionate about building scalable web applications and integrating Machine Learning and cloud technologies to solve real-world problems. I graduated with a Master of Science in Computer Science from the University of Florida.
 
-🥷 Proficient in software engineering, Machine Learning, and harnessing cloud technology to address practical challenges effectively.
+🚀 I’ve worked across industry and academic settings, constantly building projects in backend development, data engineering, and cloud infrastructure. You can explore many of these in the [Projects](./projects) section.
 
-👨‍🏫 I engage in diverse projects aimed at enhancing web applications, Machine Learning algorithms, and data analysis techniques. I am constantly working on new projects, which can be viewed in the projects section of my portfolio website. I continuously hone my skills in software engineering, with a focus on backend development, database design, and cloud computing, to advance proficiency in these domains for practical application.
+---
 
-## 👨‍🎓 Educational Background and Current Aspirations
+## 👨‍🎓 Educational Background
 
-I graduated with a Master of Science in Computer Science from the University of Florida. Prior to commencing my master’s degree, I completed my Bachelor of Engineering in Computer Science and Engineering from Osmania University in 2020. I am looking for full-time Software Engineer, Full-Stack Engineer, or Backend Engineer positions.
+- **Master of Science, Computer Science**, University of Florida  
+- **Bachelor of Engineering, Computer Science and Engineering**, Osmania University (2020)
 
-## 👔 Professional Exprience
+I am currently looking for full-time roles as a **Software Engineer**, **Full-Stack Developer**, or **Backend Engineer**.
 
-During my tenure at Delhivery Ltd. in Hyderabad, India, I played a pivotal role in developing and implementing billing APIs, managing over $1.3 million in monthly transactions, and crafting vehicle attendance and contract management APIs for the company's logistics operations. Additionally, I spearheaded the integration of FMS and Orion platforms to optimize vehicle procurement processes, resulting in the successful launch of the Transporter Service Application as a Docker microservice. My initiatives during peak Diwali traffic significantly enhanced API performance, reducing response times by over 50% and substantially cutting infrastructure costs. Furthermore, I collaborated with cross-functional teams to adapt software for Volvo vehicles, facilitating a new inter-city goods transport method that boosted profitability and operational efficiency. As a Software Developer Intern, I enhanced data caching mechanisms, reducing application downtime by 50%, and developed a digital dispute system that resolved billing discrepancies for vendors, streamlining financial processes.
+---
 
-## 💼 Student Assistant Experience
+## 💼 Professional Experience
 
-As a student assistant for CNT5517/CIS4930 (Mobile Computing), I supervised a class of 62 students, overseeing exam proctoring, leading weekly labs, and managing the online discussion forum. Collaborating closely with the instructor, I contributed to assignment design and grading processes. Additionally, I conducted Raspberry Pi help sessions, offering technical guidance that resulted in all students achieving top scores on related assignments. Moreover, I facilitated seamless progress by addressing bugs in the pre-built software system used for lab assignments, ensuring adherence to the course timeline.
+### Software Engineer, Delhivery Ltd.  
+*Hyderabad, India | Jan 2020 – Jul 2022*
 
-🪢 Stay Connected
-Find out more about my projects on my [GitHub](https://github.com/subhash-vadlamani) and connect with me on [Linkedin](https://www.linkedin.com/in/vadlamanisubhash/).
+- Developed and deployed billing APIs handling $1.3M/month in logistics transactions and managing over 30,000 vehicles.
+- Created vehicle attendance, contract management, and route tracking APIs to optimize fleet operations.
+- Integrated FMS and Orion platforms for streamlined vehicle procurement; launched Docker-based Transporter Service microservice.
+- Led performance tuning during peak Diwali season, cutting API response times by over 50% and reducing infrastructure costs.
+- Collaborated cross-functionally to adapt software for Volvo-based inter-city transport, increasing profitability.
+- As an intern, optimized caching mechanisms (cutting downtime by 50%) and built a digital dispute resolution system that resolved 100% of billing discrepancies.
+
+---
+
+## 🛠 Software Developer, WinWin Labs  
+*Remote | Aug 2024 – Present*
+
+- Built and managed a **Minecraft Java Server**, developing custom Java plugins for nonprofit fundraising and gamified engagement.
+- Implemented **automated JUnit tests**, improving code coverage by 30% and reducing production bugs.
+- Designed and integrated an **email verification system** to prevent bot registrations, increasing the fairness of hosted games.
+- Developed functionality for linking/unlinking in-game accounts with the web platform, enabling real-time score tracking.
+- Collaborated with UI/UX designers and led weekly virtual meetings to align on product roadmap and sprint planning.
+- Contributed to backend development using **PHP/CodeIgniter** and frontend modifications using **JavaScript**.
+
+---
+
+## 👨‍🏫 Teaching & Assistantship
+
+### Graduate Teaching Assistant, Mobile Computing  
+*University of Florida | Spring 2024*
+
+- Supported instruction of CNT5517/CIS4930 (Mobile Computing) with 62 students enrolled.
+- Led weekly lab sessions and Raspberry Pi support, ensuring all students achieved top scores in related assignments.
+- Contributed to assignment/grading design and resolved system bugs in course software, keeping the curriculum on schedule.
+
+---
+
+## 🪢 Stay Connected
+
+- 🔗 [GitHub](https://github.com/subhash-vadlamani)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vadlamanisubhash/)  
+- 📬 [Email](mailto:your-email@example.com)
+
+---
+
+Thanks for stopping by! 👨‍💻
